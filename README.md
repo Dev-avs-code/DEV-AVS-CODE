@@ -4,8 +4,9 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am Arturo Villares Salgado a highly motivated and results-oriented computer systems engineer with experience in the design, development and maintenance of Web applications.</h4>
 <br>
+
 
 
 
