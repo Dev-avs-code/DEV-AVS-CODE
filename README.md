@@ -5,7 +5,8 @@
   <a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h3 align="center">I am Arturo Villares Salgado a highly motivated and results-oriented computer systems engineer with experience in the design, development and maintenance of Web applications.</h3>
+<h4 align="center">🚀 Full-Stack Web Developer | Ruby On Rails, Laravel & React JS |</h4>
+<p align="center">Passionate about Software Development & Solving Complex Challenges. For me, every problem is an opportunity to innovate, learn, and deliver results that make a tangible impact. Let’s connect and turn complex challenges into elegant solutions!</p>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b>
