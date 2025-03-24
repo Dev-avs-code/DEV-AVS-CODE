@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arturo Villares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avs17&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
-<img src="https://github.com/AVS17/AVS17/blob/56cc4529b070e307ee065a30258512c7bf696f57/header%20background.png">
+<img src="https://github.com/AVS17/AVS17/blob/7eac47bcbe2e5fabfeffb635fe76cda7015a630f/header%20background.png">
 <p align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a ><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🚀 Full-Stack Web Developer | Ruby On Rails, Laravel & React JS |</h4>
-<p align="center">Passionate about Software Development & Solving Complex Challenges. For me, every problem is an opportunity to innovate, learn, and deliver results that make a tangible impact. Let’s connect and turn complex challenges into elegant solutions!</p>
+<h4 align="center">🚀 Full-Stack Web Developer </h4>
+<p align="center">Desarrollador Web Full Stack apasionado por el desarrollo de software, creador de soluciones tecnológicas innovadoras para diversos problemas a través de tecnologías como Spring Boot, Ruby On Rails, Laravel & React Js.</p>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b>
@@ -37,13 +37,15 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 
 - **Frameworks**:
   
-   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
    ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
     
 <br>
 
@@ -60,8 +62,7 @@
    
 #
 ## Where to find me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo02nov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AVS7777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.avs.code@gmail.com)
 
 
 
