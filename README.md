@@ -58,6 +58,8 @@
 
 <br>
 
+## Certifications
+[<img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="150px" />](https://www.credly.com/badges/1b48976a-1555-4d13-982a-5c1a7e571692)
 
    
 #
